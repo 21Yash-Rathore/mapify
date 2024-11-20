@@ -14,7 +14,7 @@ Mapify is a web application that uses Mapbox to display a map with multiple styl
 ## Demo
 
 You can view the live demo of the project here:  
-[Live Demo](https://your-live-site-url.com)
+[Live Demo](https://21yash-rathore.github.io/mapify/)
 
 ### Technologies Used
 
